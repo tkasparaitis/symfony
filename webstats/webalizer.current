@@ -1,0 +1,172 @@
+# Webalizer V2.23-08 Incremental Data - 03/02/2015 12:11:57
+2015 3 2 12 11 57
+40 32 1 15 10 1 25578 28 2 0 0 0
+1 7 33 2 2
+0 0 0 0 0 0 0 0
+40 32 25578 1 28 2 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+33 31 23651 27 0 0
+0 0 0 0 0 0
+7 1 1927 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0
+0
+0
+32
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+6
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+# -urls- 
+/crm/
+0 8 0 6673 0 0 0 0
+/icons/unknown.gif
+1 2 0 707 0 0 0 0
+/crm/vendor/
+0 1 0 883 0 0 0 0
+/icons/text.gif
+1 2 0 689 0 0 0 0
+/crm/web/
+0 3 0 2568 1 0 0 0
+/icons/folder.gif
+1 2 0 685 0 0 0 0
+/icons/blank.gif
+1 2 0 608 0 0 0 0
+/crm/bin/
+0 2 0 1428 0 0 0 0
+/crm/src/Acme/
+0 1 0 707 0 0 0 0
+/
+0 3 0 2119 1 0 0 0
+/crm/src/
+0 4 0 2885 0 0 0 0
+/crm/app/
+0 2 0 1864 0 0 0 0
+/icons/image2.gif
+1 2 0 771 0 0 0 0
+/icons/back.gif
+1 2 0 678 0 0 0 0
+/crm/src/AppBundle/
+0 2 0 1533 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+127.0.0.1
+0 40 32 25578 2 1425298316 0 0
+/crm/web/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+127.0.0.1
+0 40 32 25578 2 1425298316 0 0
+/crm/web/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.symfony.lt/crm/vendor/
+1 1
+http://www.symfony.lt/crm/
+1 15
+http://www.symfony.lt/crm/app/
+1 1
+http://www.symfony.lt/crm/bin/
+1 2
+http://www.symfony.lt/crm/src/AppBundle/
+1 2
+- (Direct Request)
+0 3
+http://www.symfony.lt/crm/src/
+1 4
+http://www.symfony.lt/
+1 2
+http://www.symfony.lt/crm/src/Acme/
+1 1
+http://www.symfony.lt/crm/web/
+1 9
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:35.0) Gecko/20100101 Firefox/35.0
+0 40
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
